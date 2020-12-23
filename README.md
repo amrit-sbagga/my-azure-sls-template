@@ -1,4 +1,4 @@
-# Azure Function App Template
+# Azure Function App Custom Template Using Serverless
 
 Sample template for creating serverless azure function app
 
