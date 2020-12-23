@@ -1,0 +1,20 @@
+{
+  "name": "my-azure-sls-template",
+  "version": "1.0.0",
+  "description": "Azure Function App sample template for the Serverless framework",
+  "scripts": {
+    "test": "node test",
+    "start": "func host start"
+  },
+  "keywords": [
+    "azure",
+    "serverless"
+  ],
+  "author": "amritsingh",
+  "dependencies": {
+    "util": "^0.12.3"
+  },
+  "devDependencies": {
+    "serverless-azure-functions": "^2.0.0"
+  }
+}
