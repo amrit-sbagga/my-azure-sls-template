@@ -1,4 +1,4 @@
-# Azure Functions
+# Azure Function App Template
 
 Sample template for creating serverless azure function app
 
