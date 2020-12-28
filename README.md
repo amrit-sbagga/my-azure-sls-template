@@ -14,6 +14,6 @@ Quick Start
 e.g For creating 'mytestapp' as serverless template project, execute 
   sls install --url https://github.com/amrit-sbagga/my-azure-sls-template --name mytestapp
 
-3 - To install the required dependencies, execute :
+3 - To install the required dependencies, navigate to the created project and execute :
 
 > npm install
