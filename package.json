@@ -16,6 +16,5 @@
     "mongodb": "^3.6.3"
   },
   "devDependencies": {
-    "serverless-azure-functions": "^2.0.0"
   }
 }
