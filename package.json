@@ -12,7 +12,8 @@
   ],
   "author": "amritsingh",
   "dependencies": {
-    "util": "^0.12.3"
+    "util": "^0.12.3",
+    "mongodb": "^3.6.3"
   },
   "devDependencies": {
     "serverless-azure-functions": "^2.0.0"

@@ -1,5 +1,8 @@
 'use strict';
 
+//Fill Mongo Connection url here
+const MONGO_URL = "";
+
 module.exports.handler = async function(context, req) {
   context.log('JavaScript HTTP trigger function processed a request.');
 
